@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 asdfgh
-=======
-asdfgh
-aaa
->>>>>>> 3462761e8cfb075dbaed5bf6d3a2217bb00a8afc
+sss
