@@ -1,7 +1,3 @@
 asdfgh
-<<<<<<< HEAD
-zxcasdq
-=======
 zxcasdq
 asdasd
->>>>>>> netowrk
